@@ -52,15 +52,19 @@ Since the original model was unable to reach the target accuracy, there were sev
     * Increase the amounts of BIN for APPLICATION_TYPE, CLASSIFICATION binning.
 
 Original/unoptimized APPLICATION_TYPE binning:
+
 ![Unoptimized binning app type](image-2.png)
 
 Optimized APPLICATION_TYPE binning:
+
 ![Optimized binning app type](image-3.png)
 
 Original/unoptimized CLASSIFICATION binning:
+
 ![Unoptimized binning classification](image-4.png)
 
 Optimized CLASSIFICATION binning:
+
 ![Optimized binning classification](image-5.png)
 
 ##### Model tuning/optimizations
